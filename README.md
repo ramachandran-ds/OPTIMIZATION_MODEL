@@ -29,11 +29,9 @@ A factory produces two kinds of products—Product A and Product B—using two s
 
 Product & Resource Data:
 
-Product A	Product B	Resource Limit
-Machine 1	2 hours/unit	1 hour/unit	40 hours
-Machine 2	1 hour/unit	2 hours/unit	30 hours
-Maximum Sale	≤ 15 units	≤ 10 units	-
-Profit/unit	$40	$30	-
+<img width="738" height="207" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/c453ae22-bad5-47a5-b741-311ae90a17de" />
+
+
 Optimization Goal:
 Maximize: Total Profit = 40 × Product_A + 30 × Product_B
 
